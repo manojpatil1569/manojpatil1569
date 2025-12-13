@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  Hi 👋, I'm Morning Star
+  Hi 👋, I'm Manoj Patil
 </h1>
 
 <p align="center">
