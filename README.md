@@ -1,16 +1,104 @@
-## Hi there 👋
+<!-- Animated Header -->
+<h1 align="center">
+  Hi 👋, I'm Morning Star
+</h1>
 
-<!--
-**manojpatil1569/manojpatil1569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;MCA+Student;JavaScript+%7C+HTML+%7C+CSS;Building+Real-World+Projects;Learning+Every+Day" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Who Am I?
+
+I’m an **MCA student** and **Frontend Developer** who believes in **learning by building**.  
+I focus on writing **clean, maintainable UI code** and converting ideas into **interactive user experiences**.
+
+- 🎯 Goal: Frontend Developer 
+- 🧠 Strength: Logic + UI thinking
+- 🔥 Mindset: Consistency > Motivation
+- 🏗️ Currently building resume-grade projects
+
+---
+
+## 🧰 Frontend Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+**What recruiters care about (and I practice):**
+- Responsive layouts
+- DOM manipulation
+- State handling (without frameworks)
+- Clean folder structure
+- Performance & UX basics
+
+---
+
+## 🚀 Highlight Project (Resume-Ready)
+
+### 🗓️ Daily Routine Tracker (Advanced To-Do System)
+
+> A productivity-focused web app built using **pure HTML, CSS & JavaScript**
+
+✔ Add / Delete tasks  
+✔ Separate action buttons  
+✔ Daily reset logic  
+✔ Weekly streak tracking  
+✔ Dark mode  
+✔ Drag & drop reordering  
+✔ LocalStorage persistence  
+✔ PWA-ready structure  
+
+🔗 **Repository:** `Daily-Routine-Tracker`  
+
+
+---
+
+## 📁 Other Frontend Projects
+
+- 🔹 Responsive Landing Pages
+- 🔹 JavaScript Utility Apps
+- 🔹 UI Components (Forms, Modals, Navbars)
+- 🔹 API-based projects *(learning phase)*
+
+> Each project improves **one real-world skill**, not just visuals.
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🎯 What I’m Learning Next
+
+- Advanced JavaScript patterns
+- Component-based UI thinking
+- React fundamentals
+- Frontend interview problem-solving
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: 
+- 📧 Email: 
+
+---
+
+## ⚡ Personal Philosophy
+
+> **“Discipline beats motivation.  
+> Small improvements daily create unstoppable momentum.”**
+
+---
+
+⭐ If you find my projects useful, **consider starring them** — it helps a lot!
