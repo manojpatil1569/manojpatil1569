@@ -1,4 +1,4 @@
-<!-- Animated Header -->
+
 <h1 align="center">
   Hi 👋, I'm Manoj Patil
 </h1>
@@ -68,13 +68,6 @@ I focus on writing **clean, maintainable UI code** and converting ideas into **i
 > Each project improves **one real-world skill**, not just visuals.
 
 ---
-
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
