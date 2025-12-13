@@ -9,7 +9,7 @@
   </a>
 </p>
 
----
+
 
 ## 👨‍💻 Who Am I?
 
@@ -21,7 +21,7 @@ I focus on writing **clean, maintainable UI code** and converting ideas into **i
 - 🔥 Mindset: Consistency > Motivation
 - 🏗️ Currently building resume-grade projects
 
----
+
 
 ## 🧰 Frontend Tech Stack
 
@@ -36,9 +36,9 @@ I focus on writing **clean, maintainable UI code** and converting ideas into **i
 - Clean folder structure
 - Performance & UX basics
 
----
 
-## 🚀 Highlight Project (Resume-Ready)
+
+
 
 ### 🗓️ Daily Routine Tracker (Advanced To-Do System)
 
@@ -56,7 +56,7 @@ I focus on writing **clean, maintainable UI code** and converting ideas into **i
 🔗 **Repository:** `Daily-Routine-Tracker`  
 
 
----
+
 
 ## 📁 Other Frontend Projects
 
@@ -67,9 +67,9 @@ I focus on writing **clean, maintainable UI code** and converting ideas into **i
 
 > Each project improves **one real-world skill**, not just visuals.
 
----
 
----
+
+
 
 ## 🎯 What I’m Learning Next
 
@@ -78,20 +78,20 @@ I focus on writing **clean, maintainable UI code** and converting ideas into **i
 - React fundamentals
 - Frontend interview problem-solving
 
----
+
 
 ## 📫 Let’s Connect
 
 - 💼 LinkedIn: 
 - 📧 Email: 
 
----
+
 
 ## ⚡ Personal Philosophy
 
 > **“Discipline beats motivation.  
 > Small improvements daily create unstoppable momentum.”**
 
----
+
 
 ⭐ If you find my projects useful, **consider starring them** — it helps a lot!
