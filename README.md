@@ -40,7 +40,7 @@ I focus on writing **clean, maintainable UI code** and converting ideas into **i
 
 
 
-### 🗓️ Daily Routine Tracker (Advanced To-Do System)
+### 🗓️ DayFlow (Advanced To-Do System)
 
 > A productivity-focused web app built using **pure HTML, CSS & JavaScript**
 
@@ -83,7 +83,7 @@ I focus on writing **clean, maintainable UI code** and converting ideas into **i
 ## 📫 Let’s Connect
 
 - 💼 LinkedIn: 
-- 📧 Email: 
+- 📧 Email: mp4920580@gmail.com
 
 
 
